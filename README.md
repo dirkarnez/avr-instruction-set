@@ -4,7 +4,8 @@ avr-instruction-set
 - [x] `ldi`
 - [x] `sbi`	
 - [x] `cbi`	
-- [ ] `brne`	
+- [ ] `brne`
+  - https://www.avrfreaks.net/s/topic/a5C3l000000Uco3EAC/t162963 
 - [ ] `rjmp`
 - [ ] `dec`
 
