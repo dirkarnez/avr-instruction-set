@@ -11,6 +11,32 @@ avr-instruction-set
 - [x] `rjmp`
   - dependent to program memory size (4k device can access every address location using this operation, 8k cannot)
 - [x] `dec`
+- [ ] `out`
+- [ ] `jmp`
+- [ ] `lpm`
+- [ ] `swap`	
+- [ ] `st` 
+- [ ] `eor`
+- [ ] `adc`
+- [ ] `ret`
+- [ ] `push`	
+- [ ] `pop`
+- [ ] `cpse`	
+- [ ] `movw`	
+- [ ] `add`
+- [ ] `call`
+- [ ] `ld`
+- [ ] `rcall`
+- [ ] `subi`
+- [ ] `cpi`
+- [ ] `std`
+- [ ] `mov`
+- [ ] `sbiw`	
+- [ ] `nop`
+- [ ] `ori`
+- [ ] `cpc`
+- [ ] `andi`
+- [ ] `in`
 
 ### Reference
 - https://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf
